@@ -1,4 +1,5 @@
 # IntroToGit
+Workshop for GWC@QC
 ## Repo that was created while learning basic git commands such as:
 
 * init
